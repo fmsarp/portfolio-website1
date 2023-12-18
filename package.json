@@ -6,17 +6,18 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/portfolio-website1"
+    "url": "git+https://fmsarp.github.com/portfolio-website1"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Franklin Sarpong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://fmsarp.github.com/portfolio-website1/issues"
   },
   "homepage": "https://fmsarp.github.com/portfolio-website1",
   "devDependencies": {
